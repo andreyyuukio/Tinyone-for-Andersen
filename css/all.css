@@ -166,14 +166,17 @@ color: var(--bs-colorsecond);
 
 .fa-desktop:before{
 	content:"\f108";
+	font-family: "FontAwesome";
 	
 }
 .fa-laptop:before{
 	content:"\f109";
+	font-family: "FontAwesome";
 
 }
 .fa-tablet-alt:before{
 	content:"\f3fa";
+	font-family: "FontAwesome";
 	
 }
 .price-block{
@@ -378,6 +381,7 @@ font-size: 36px;
 }
 .fa-facebook-f:before{
 	content: '\f39e';
+	font-family: "FontAwesome";
 }
 .social a:hover{
 color: var(--bs-colorsecond);
